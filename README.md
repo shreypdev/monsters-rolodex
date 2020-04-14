@@ -7,6 +7,7 @@ In this project, I learned how can we create different components to make React 
 ## Available Scripts
 
 In the project directory, you can run:
+
 **Note: before runnning any below given script it is important to run `npm install`, it will install all the dependencies for the project!**
 
 ### `npm start`
